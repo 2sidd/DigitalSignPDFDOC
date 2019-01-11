@@ -1,0 +1,10 @@
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\DigitalSign.exe.config
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\DigitalSign.exe
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\DigitalSign.pdb
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\SautinSoft.Document.dll
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\SautinSoft.Document.xml
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\obj\Debug\DigitalSign.csprojResolveAssemblyReference.cache
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\obj\Debug\DigitalSign.exe
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\obj\Debug\DigitalSign.pdb
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\itextsharp.dll
+C:\workspace\PDFDigitalSign\DigitalSign\DigitalSign\bin\Debug\itextsharp.xml
